@@ -28,7 +28,7 @@ export default function Home() {
           items={[
             { key: "mint-token", label: "Mint Token" },
             { key: "mint-nft", label: "Mint NFT" },
-            { key: "my-assets", label: "My Assets" },
+            { key: "assets-vault-manager", label: "Assets Vault Manager" },
           ]}
         />
         <ConnectButton />
